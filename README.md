@@ -1,0 +1,2 @@
+# Mezuniyet-Projesi
+Discord bot
